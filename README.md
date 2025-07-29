@@ -1,3 +1,5 @@
+#Projektbeschreibung und Vorstellung der Umsetzung
+
 # Fertilizer Dosage Pump
 
 Ein Raspberry-Pi-basiertes System zur automatisierten Dosierung von Flüssigdünger mit präziser Mengensteuerung.  
